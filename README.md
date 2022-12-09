@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2>Hi, I'm Fatchul Amin 👋</h2>
 
-<!--
-**fatchul/fatchul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Go** and sometimes **PHP** Project
+- 🌱 I’m currently learning **Go** 
+- 👨‍💻 Interest to Software Engineering, Project Management also Technical Architect
+- 👯 I’m looking to collaborate on **Open Source** and/or **Web Apps** projects
 
-Here are some ideas to get you started:
+📬 Get in Touch
+- <a href="mailto:fatchul.amin1@gmail.com">fatchul.amin1@gmail.com</a>
+- <a href='https://www.linkedin.com/in/fatchulamin'>LinkedIn</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatchul&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
